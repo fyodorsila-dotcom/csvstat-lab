@@ -1,0 +1,4 @@
+*.o
+csvstat
+*.dSYM
+.DS_Store
